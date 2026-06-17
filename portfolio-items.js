@@ -98,7 +98,7 @@
     "source": "C:\\Users\\user\\Desktop\\作品\\graphic = 平面設計\\(虎珍堂)虎月燒菜單-03.png"
   },
   {
-    "title": "唯二 價目表 完稿 ol 01",
+    "title": "唯二 價目表 完稿",
     "category": "graphic",
     "categoryLabel": "平面設計",
     "image": "assets/selected-works/work-015.jpg",
@@ -175,28 +175,28 @@
     "source": "C:\\Users\\user\\Desktop\\作品\\print = 廣告傳單文宣\\(虎珍堂)店內公告.png"
   },
   {
-    "title": "蘭日子 seo成效",
+    "title": "品牌 seo成效",
     "category": "seo",
     "categoryLabel": "SEO關鍵字",
     "image": "assets/selected-works/work-026.jpg",
     "source": "C:\\Users\\user\\Desktop\\作品\\seo = SEO關鍵字\\蘭日子_seo成效.png"
   },
   {
-    "title": "蘭日子 官網文章撰寫",
+    "title": "關鍵字 官網文章撰寫",
     "category": "seo",
     "categoryLabel": "SEO關鍵字",
     "image": "assets/selected-works/work-027.jpg",
     "source": "C:\\Users\\user\\Desktop\\作品\\seo = SEO關鍵字\\蘭日子_官網文章撰寫.png"
   },
   {
-    "title": "虎珍堂 ESG系列製作",
+    "title": "品牌 ESG系列製作",
     "category": "seo",
     "categoryLabel": "SEO關鍵字",
     "image": "assets/selected-works/work-028.jpg",
     "source": "C:\\Users\\user\\Desktop\\作品\\seo = SEO關鍵字\\虎珍堂_ESG系列製作.png"
   },
   {
-    "title": "虎珍堂 seo成效與文章",
+    "title": "品牌 seo成效與文章",
     "category": "seo",
     "categoryLabel": "SEO關鍵字",
     "image": "assets/selected-works/work-029.jpg",
@@ -324,7 +324,7 @@
     "videoUrl": "https://youtube.com/shorts/Gr1bMucA3M8"
   },
   {
-    "title": "蘭日子 古坑服務區(1)0106 1",
+    "title": "蘭日子 古坑服務區",
     "category": "video",
     "categoryLabel": "短影音製作",
     "image": "assets/selected-works/work-047.jpg",
